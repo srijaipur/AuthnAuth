@@ -235,3 +235,5 @@
 /home/coder/AuthnAuth/obj/Debug/net9.0/AuthnAuth.pdb
 /home/coder/AuthnAuth/obj/Debug/net9.0/AuthnAuth.genruntimeconfig.cache
 /home/coder/AuthnAuth/obj/Debug/net9.0/ref/AuthnAuth.dll
+/home/coder/AuthnAuth/obj/Debug/net9.0/AuthnAuth.sourcelink.json
+/home/coder/AuthnAuth/bin/Debug/net9.0/BCrypt.Net-Next.dll
